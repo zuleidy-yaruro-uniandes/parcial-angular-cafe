@@ -1,0 +1,8 @@
+.banner {
+    height: 230px;
+    object-fit: cover;
+}
+
+.titulo {
+    font-weight: 300;
+}
