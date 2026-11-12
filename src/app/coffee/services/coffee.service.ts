@@ -16,5 +16,4 @@ export class CoffeeService {
     return this.http.get<Coffee[]>(this.apiUrl);
   }
 }
-export { Coffee };
 
